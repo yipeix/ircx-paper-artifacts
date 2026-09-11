@@ -1,0 +1,14 @@
+{
+  "description": "Input data from the evaluated iRCX paper-data configuration",
+  "technology_node_nm": 28,
+  "routing_tool": "ecc-tools iRT",
+  "benchmark_list": "benchmarks.txt",
+  "def_directory": "def",
+  "captab_file": "captab/out.captab",
+  "captab_sha256": "fa03d0c73143bf3e7f351a826a46a414e17b81ec1add06b3fd446ee2b6175779",
+  "paper_data_source_commit": "56c4cf64acf4f32668a3b631b75c181a89f20350",
+  "paper_data_source_tag_in_authors_archive": "paper-data-table3-repro",
+  "evaluated_source_commit": "c714b1fa6a2d0b1ad691565e8a07f7501a4222df",
+  "evaluated_binary_sha256": "6124c76045cde84a7c8c94b147bf7ce0adcaba795e84dbaa8749b6bb91ae0723",
+  "checksums": "SHA256SUMS"
+}
